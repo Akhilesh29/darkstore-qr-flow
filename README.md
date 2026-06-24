@@ -29,7 +29,4 @@ practice reference for understanding the pick, pack and dispatch process.
 - **heavy item bags** — 2 × 10 kg soil, 1 × 10 kg vermi.
 - **regular bags** — 1 additional bag, print 5 tags total.
 
-## notes
 
-- side notes in the flow cover the 10 kg bag qr and the 2-sticker safety rule.
-- this is a practice project, so details are kept short and simple.
